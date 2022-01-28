@@ -1,10 +1,10 @@
 ---
 widget: pages
-widget_id: "2"
+widget_id: publications
 headless: true
 weight: 90
-title: Recent Publications
-subtitle: ""
+title: Publications
+subtitle: Recent publications and preprints
 content:
   filters:
     folders:
