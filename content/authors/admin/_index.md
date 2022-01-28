@@ -1,7 +1,7 @@
 ---
 title: Muhammad Kashif
 role: Lecturer of Computer Science
-avatar_filename: drkashifhon.png
+avatar_filename: avatar.jpg.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
