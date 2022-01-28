@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Muhammad Kashif # Website name
 baseurl: 'https://kashifhon.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {2022} Muhammad Kashif'
+copyright: '© 2022 Muhammad Kashif' # Footer text, e.g. '© {2022} Muhammad Kashif'
 
 ############################
 ## LANGUAGE
