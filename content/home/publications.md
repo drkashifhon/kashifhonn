@@ -23,7 +23,7 @@ design:
   view: citation
   columns: "2"
   background:
-    text_color_light: true
+    text_color_light: false
 ---
 
 {{% callout note %}}
