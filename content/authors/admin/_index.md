@@ -30,7 +30,7 @@ social:
     link: facebook.com/drkashifhon
     icon: facebook
 organizations:
-  - name: GPG College, University of Swabi
+  - name: Government Post Graduate College, University of Swabi
     url: https://uoswabi.edu.pk/
 education:
   courses:
