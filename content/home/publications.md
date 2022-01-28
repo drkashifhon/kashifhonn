@@ -22,6 +22,8 @@ content:
 design:
   view: citation
   columns: "2"
+  background:
+    text_color_light: true
 ---
 
 {{% callout note %}}
