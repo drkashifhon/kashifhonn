@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://kashifhon.github.io/' # Website URL
+copyright: '' # Footer text, e.g. '© {2022} Muhammad Kashif'
 
 ############################
 ## LANGUAGE
