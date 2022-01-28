@@ -25,7 +25,7 @@ experience:
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
 widget_id: Experience
-headless: false
+headless: true
 weight: 40
 title: Experience
 subtitle: null
