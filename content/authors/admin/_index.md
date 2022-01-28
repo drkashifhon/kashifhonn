@@ -30,19 +30,16 @@ social:
     link: facebook.com/drkashifhon
     icon: facebook
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: GPG College, University of Swabi
+    url: https://uoswabi.edu.pk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS Computer Science
+      institution: International Islamic University Islamabad
+      year: 2019
+    - course: BS Computer Science
+      institution: University of Peshawar
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
