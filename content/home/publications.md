@@ -2,7 +2,7 @@
 widget: pages
 widget_id: publications
 headless: true
-weight: 90
+weight: 65
 title: Publications
 subtitle: Recent publications and preprints
 content:
