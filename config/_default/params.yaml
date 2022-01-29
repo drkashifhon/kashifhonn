@@ -21,9 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: m.kashif@iiu.edu.pk
-phone: +92 312 996 8787
+#phone: +92 312 996 8787
 address:
-  street: 450 Serra Mall
+  #street: 450 Serra Mall
   city: Islamabad
   #region: CA
   #postcode: '94305'
@@ -37,29 +37,29 @@ address:
   #- 'Monday 10:00 to 13:00'
   #- 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
+#contact_links:
+ # - icon: twitter
+  #  icon_pack: fab
+   # name: DM Me
 #    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
+  #- icon: skype
+   # icon_pack: fab
+    #name: Skype Me
 #    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
+  #- icon: keybase
+   # icon_pack: fab
+    #name: Chat on Keybase
   #  link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
+  #- icon: comments
+   # icon_pack: fas
+    #name: Discuss on Forum
   #  link: 'https://discourse.gohugo.io'
 
 # Site header
 
 main_menu:
   enable: true
-  align: 2
+  align: 4
   show_logo: true
   show_language: false
   show_day_night: false
@@ -68,9 +68,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+#date_format: 'Jan 2, 2006'
+#time_format: '3:04 PM'
+#address_format: en-us
 
 # Site features
 
@@ -100,7 +100,7 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: true
+  enable: false
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
@@ -113,10 +113,10 @@ avatar:
 publications:
   date_format: January 2006
   citation_style: apa
-projects:
-  post_view: 2
+#projects:
+ # post_view: 2
   publication_view: 2
-  talk_view: 2
+  #talk_view: 2
 breadcrumb:
   page_types:
     book: true
