@@ -24,7 +24,7 @@ email: m.kashif@iiu.edu.pk
 #phone: +92 312 996 8787
 address:
   #street: 450 Serra Mall
-  city: Islamabad
+  city: Islamabad Pakistan.
   #region: CA
   #postcode: '94305'
   country: Pakistan
@@ -59,7 +59,7 @@ address:
 
 main_menu:
   enable: true
-  align: 4
+  align: 1
   show_logo: true
   show_language: false
   show_day_night: false
@@ -113,10 +113,10 @@ avatar:
 publications:
   date_format: January 2006
   citation_style: apa
-#projects:
- # post_view: 2
+projects:
+  post_view: 2
   publication_view: 2
-  #talk_view: 2
+  talk_view: 2
 breadcrumb:
   page_types:
     book: true
